@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(n,o,e){"use strict";e.r(o);var t=e("7a23"),c={class:"about"},s=Object(t["h"])("h1",null,"A central JBoss console for high level monitoring",-1);function r(n,o){return Object(t["q"])(),Object(t["d"])("div",c,[s])}const a={};a.render=r;o["default"]=a}}]);
+//# sourceMappingURL=about.fbd37524.js.map
